@@ -3,7 +3,7 @@
 
 - 👯 Estoy buscando colaborar en **proyectos pequeños para adquirir experiencias**
 
-- 💬 Me puedes preguntar sobre **HTML5, CSS, SASS, GULP, JS, PHP, NODEJS, EXPRESS, MONGODB, MYSQL*
+- 💬 Me puedes preguntar sobre **HTML5, CSS, SASS, GULP, JS, PHP, NODEJS, EXPRESS, MONGODB, MYSQL* actualmente me encuentro profundizando en PHP.
 
 - 📊 Conozco MVC como arquitectura de software.
 
