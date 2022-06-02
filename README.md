@@ -3,7 +3,9 @@
 
 - 👯 Estoy buscando colaborar en **proyectos pequeños para adquirir experiencias**
 
-- 💬 Me puedes preguntar sobre **HTML5, CSS, SASS, GULP, JS, NODEJS, EXPRESS, MONGODB, MYSQL**
+- 💬 Me puedes preguntar sobre **HTML5, CSS, SASS, GULP, JS, PHP, NODEJS, EXPRESS, MONGODB, MYSQL*
+
+- 📊 Conozco MVC como arquitectura de software.
 
 - 📫 Como encontrarme **stevanduran96@gmail.com**
 
